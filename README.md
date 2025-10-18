@@ -25,3 +25,7 @@ You need to have **Node.js** installed on your system.
 1. Install dependencies:
    ```bash
    npm install
+
+
+# تلقص مجلد الادوات تواصل معي من اجل الموقع !!!!!!!!!! للتواصل المعلومات فوق .
+
